@@ -1,0 +1,43 @@
+.login-page {
+	background-color: #3C91E6;
+}
+
+.card {
+	border-radius: 25px;
+}
+
+.login-card-body {
+	border-radius: 25px;
+	background-color: #343A40;
+	color: #E9ECEF;
+}
+
+.logos {
+	color: white;
+}
+
+.btn-login button:hover {
+	background-color: #3C91E6;
+	color: white;
+	border-color: #3C91E6;
+}
+
+.mb-1 {
+	padding-top: 1rem;
+}
+
+.mb-0 a { 
+	color: #E9ECEF;
+}
+
+.mb-1 a {
+	color: #E9ECEF;
+}
+
+.mb-0 a:hover {
+	color: #3C91E6;
+}
+
+.mb-1 a:hover {
+	color: #3C91E6;
+}
